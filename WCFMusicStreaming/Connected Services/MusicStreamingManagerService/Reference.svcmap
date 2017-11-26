@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="600ab7e2-182e-405a-a5a0-ec919c167396" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:50408/MusicStreamingManagerService..svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MusicStreamingManagerService.disco" MetadataType="Disco" ID="34fba582-df4f-4a1b-9683-d3b01bf72a7e" SourceId="1" SourceUrl="http://localhost:50408/MusicStreamingManagerService..svc?disco" />
+    <MetadataFile FileName="MusicStreamingManagerService.xsd" MetadataType="Schema" ID="2d1c146b-2af8-49fe-9879-f3f399eed482" SourceId="1" SourceUrl="http://localhost:50408/MusicStreamingManagerService..svc?xsd=xsd2" />
+    <MetadataFile FileName="MusicStreamingManagerService1.xsd" MetadataType="Schema" ID="049586cb-7ae4-4e61-ae8e-0a9cd88c9a2e" SourceId="1" SourceUrl="http://localhost:50408/MusicStreamingManagerService..svc?xsd=xsd0" />
+    <MetadataFile FileName="MusicStreamingManagerService2.xsd" MetadataType="Schema" ID="7661236e-ad5d-46f1-ae92-28b5e77e1738" SourceId="1" SourceUrl="http://localhost:50408/MusicStreamingManagerService..svc?xsd=xsd1" />
+    <MetadataFile FileName="MusicStreamingManagerService.wsdl" MetadataType="Wsdl" ID="d83b55e8-4dab-4519-8fda-7e0588a9a6e5" SourceId="1" SourceUrl="http://localhost:50408/MusicStreamingManagerService..svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

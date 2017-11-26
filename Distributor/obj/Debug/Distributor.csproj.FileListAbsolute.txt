@@ -1,0 +1,5 @@
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\Distributor\bin\Debug\Distributor.exe.config
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\Distributor\bin\Debug\Distributor.exe
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\Distributor\bin\Debug\Distributor.pdb
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\Distributor\obj\Debug\Distributor.exe
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\Distributor\obj\Debug\Distributor.pdb

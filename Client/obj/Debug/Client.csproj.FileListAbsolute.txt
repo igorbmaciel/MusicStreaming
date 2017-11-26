@@ -1,0 +1,5 @@
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\Client\bin\Debug\Client.exe.config
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\Client\bin\Debug\Client.exe
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\Client\bin\Debug\Client.pdb
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\Client\obj\Debug\Client.exe
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\Client\obj\Debug\Client.pdb

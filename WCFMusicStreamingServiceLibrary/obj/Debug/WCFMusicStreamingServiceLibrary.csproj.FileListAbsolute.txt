@@ -1,0 +1,11 @@
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingServiceLibrary\bin\Debug\WCFMusicStreamingServiceLibrary.dll.config
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingServiceLibrary\bin\Debug\WCFMusicStreamingServiceLibrary.dll
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingServiceLibrary\bin\Debug\WCFMusicStreamingServiceLibrary.pdb
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingServiceLibrary\obj\Debug\WCFMusicStreamingServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingServiceLibrary\obj\Debug\WCFMusicStreamingServiceLibrary.dll
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingServiceLibrary\obj\Debug\WCFMusicStreamingServiceLibrary.pdb
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\WCFMusicStreamingServiceLibrary\bin\Debug\WCFMusicStreamingServiceLibrary.dll.config
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\WCFMusicStreamingServiceLibrary\bin\Debug\WCFMusicStreamingServiceLibrary.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\WCFMusicStreamingServiceLibrary\bin\Debug\WCFMusicStreamingServiceLibrary.pdb
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\WCFMusicStreamingServiceLibrary\obj\Debug\WCFMusicStreamingServiceLibrary.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\WCFMusicStreamingServiceLibrary\obj\Debug\WCFMusicStreamingServiceLibrary.pdb

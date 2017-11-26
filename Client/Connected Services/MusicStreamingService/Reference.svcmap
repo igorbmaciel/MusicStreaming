@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d3f41a73-900c-4175-ab0b-d59e98e792d6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:64836/MusicStreaming.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MusicStreaming.wsdl" MetadataType="Wsdl" ID="aa6d8efb-cae5-42b8-b39f-207fec55a1f6" SourceId="1" SourceUrl="http://localhost:64836/MusicStreaming.svc?wsdl" />
+    <MetadataFile FileName="MusicStreaming.xsd" MetadataType="Schema" ID="fa153ef4-d2ee-4270-a117-0157968bb947" SourceId="1" SourceUrl="http://localhost:64836/MusicStreaming.svc?xsd=xsd3" />
+    <MetadataFile FileName="MusicStreaming1.xsd" MetadataType="Schema" ID="5aaf8945-8a8b-45ad-8879-ae8e515b4bd2" SourceId="1" SourceUrl="http://localhost:64836/MusicStreaming.svc?xsd=xsd2" />
+    <MetadataFile FileName="MusicStreaming2.xsd" MetadataType="Schema" ID="b31f35a3-2684-4163-8880-900ac889abcc" SourceId="1" SourceUrl="http://localhost:64836/MusicStreaming.svc?xsd=xsd1" />
+    <MetadataFile FileName="MusicStreaming3.xsd" MetadataType="Schema" ID="57812264-037f-4cc2-b9aa-ce6a03f52772" SourceId="1" SourceUrl="http://localhost:64836/MusicStreaming.svc?xsd=xsd0" />
+    <MetadataFile FileName="MusicStreaming.disco" MetadataType="Disco" ID="0ea7e1ea-5c5d-4881-aa63-a5f5565aff14" SourceId="1" SourceUrl="http://localhost:64836/MusicStreaming.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

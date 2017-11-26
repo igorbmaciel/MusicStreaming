@@ -1,0 +1,19 @@
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingService\bin\WCFMusicStreamingService.dll.config
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingService\bin\WCFMusicStreamingService.dll
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingService\bin\WCFMusicStreamingService.pdb
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingService\bin\WCFMusicStreamingServiceLibrary.dll
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingService\bin\WCFMusicStreamingServiceLibrary.pdb
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingService\bin\WCFMusicStreamingServiceLibrary.dll.config
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingService\obj\Debug\WCFMusicStreamingService.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingService\obj\Debug\WCFMusicStreamingService.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingService\obj\Debug\WCFMusicStreamingService.dll
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingService\obj\Debug\WCFMusicStreamingService.pdb
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\WCFMusicStreamingService\bin\WCFMusicStreamingService.dll.config
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\WCFMusicStreamingService\bin\WCFMusicStreamingService.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\WCFMusicStreamingService\bin\WCFMusicStreamingService.pdb
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\WCFMusicStreamingService\bin\WCFMusicStreamingServiceLibrary.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\WCFMusicStreamingService\bin\WCFMusicStreamingServiceLibrary.pdb
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\WCFMusicStreamingService\bin\WCFMusicStreamingServiceLibrary.dll.config
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\WCFMusicStreamingService\obj\Debug\WCFMusicStreamingService.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\WCFMusicStreamingService\obj\Debug\WCFMusicStreamingService.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Serviços com WCF\Trabalho\MusicStreaming\WCFMusicStreamingService\obj\Debug\WCFMusicStreamingService.pdb

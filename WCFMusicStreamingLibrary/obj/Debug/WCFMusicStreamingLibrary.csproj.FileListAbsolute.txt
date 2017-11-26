@@ -1,0 +1,7 @@
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingLibrary\obj\Debug\WCFMusicStreamingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingLibrary\bin\Debug\WCFMusicStreamingLibrary.dll.config
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingLibrary\bin\Debug\WCFMusicStreamingLibrary.dll
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingLibrary\bin\Debug\WCFMusicStreamingLibrary.pdb
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingLibrary\obj\Debug\XsdGeneratedCode\GeneratedXsdTypes.cs
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingLibrary\obj\Debug\WCFMusicStreamingLibrary.dll
+C:\Users\aluno\Downloads\MusicStreaming\WCFMusicStreamingLibrary\obj\Debug\WCFMusicStreamingLibrary.pdb

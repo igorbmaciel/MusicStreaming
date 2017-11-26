@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFMusicStreamingServiceLibrary", "WCFMusicStreamingServiceLibrary\WCFMusicStreamingServiceLibrary.csproj", "{E3D5114E-1E1B-4C96-9DDE-9E8ED69DAF40}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WCFMusic", "WCFMusic", "{7F0CBF82-B237-4D17-9E45-E787337C5D80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFMusicStreamingService", "WCFMusicStreamingService\WCFMusicStreamingService.csproj", "{0D5DB27F-BA0B-460C-A05A-38B9717660F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WCFMusicStreaming", "WCFMusicStreaming", "{189BB4F5-9768-4C0F-A842-39A6C8CA44FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFMusicStreamingManager", "WCFMusicStreamingManager\WCFMusicStreamingManager.csproj", "{E5385D65-56C6-4F18-87DE-47FEA2780FC2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0D5DB27F-BA0B-460C-A05A-38B9717660F1} = {0D5DB27F-BA0B-460C-A05A-38B9717660F1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFMusicStreaming", "WCFMusicStreaming\WCFMusicStreaming.csproj", "{E75D7FEC-DC06-457E-ACFA-93EA26EC3CD0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E5385D65-56C6-4F18-87DE-47FEA2780FC2} = {E5385D65-56C6-4F18-87DE-47FEA2780FC2}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distributor", "Distributor\Distributor.csproj", "{3735D35B-8E61-4197-BC46-972970974A68}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E3D5114E-1E1B-4C96-9DDE-9E8ED69DAF40} = {E3D5114E-1E1B-4C96-9DDE-9E8ED69DAF40}
+		{E5385D65-56C6-4F18-87DE-47FEA2780FC2} = {E5385D65-56C6-4F18-87DE-47FEA2780FC2}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{3B26A7FB-B11E-4758-85DD-A558E16010D1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0D5DB27F-BA0B-460C-A05A-38B9717660F1} = {0D5DB27F-BA0B-460C-A05A-38B9717660F1}
+		{E75D7FEC-DC06-457E-ACFA-93EA26EC3CD0} = {E75D7FEC-DC06-457E-ACFA-93EA26EC3CD0}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3D5114E-1E1B-4C96-9DDE-9E8ED69DAF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D5114E-1E1B-4C96-9DDE-9E8ED69DAF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D5114E-1E1B-4C96-9DDE-9E8ED69DAF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D5114E-1E1B-4C96-9DDE-9E8ED69DAF40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D5DB27F-BA0B-460C-A05A-38B9717660F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D5DB27F-BA0B-460C-A05A-38B9717660F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D5DB27F-BA0B-460C-A05A-38B9717660F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D5DB27F-BA0B-460C-A05A-38B9717660F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5385D65-56C6-4F18-87DE-47FEA2780FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5385D65-56C6-4F18-87DE-47FEA2780FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5385D65-56C6-4F18-87DE-47FEA2780FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5385D65-56C6-4F18-87DE-47FEA2780FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E75D7FEC-DC06-457E-ACFA-93EA26EC3CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E75D7FEC-DC06-457E-ACFA-93EA26EC3CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E75D7FEC-DC06-457E-ACFA-93EA26EC3CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E75D7FEC-DC06-457E-ACFA-93EA26EC3CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3735D35B-8E61-4197-BC46-972970974A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3735D35B-8E61-4197-BC46-972970974A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3735D35B-8E61-4197-BC46-972970974A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3735D35B-8E61-4197-BC46-972970974A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B26A7FB-B11E-4758-85DD-A558E16010D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B26A7FB-B11E-4758-85DD-A558E16010D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B26A7FB-B11E-4758-85DD-A558E16010D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B26A7FB-B11E-4758-85DD-A558E16010D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E3D5114E-1E1B-4C96-9DDE-9E8ED69DAF40} = {7F0CBF82-B237-4D17-9E45-E787337C5D80}
+		{0D5DB27F-BA0B-460C-A05A-38B9717660F1} = {7F0CBF82-B237-4D17-9E45-E787337C5D80}
+		{E75D7FEC-DC06-457E-ACFA-93EA26EC3CD0} = {189BB4F5-9768-4C0F-A842-39A6C8CA44FB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A875547-89C3-4C32-9497-0F028AF8FCB5}
+	EndGlobalSection
+EndGlobal

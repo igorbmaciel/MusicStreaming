@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCFMusicStreamingManager.MusicStreamingManagerService" CodeBehind="MusicStreamingManagerService..svc.cs" %>
